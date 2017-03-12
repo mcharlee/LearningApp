@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learning App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_one">Button 1</string>
+    <string name="button_two">Button 2</string>
+    <string name="clicked_one">Button One Clicked</string>
+    <string name="clicked_two">Button Two Clicked</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicación de aprendizaje</string>
+    <string name="edit_message">Escribe un mensaje</string>
+    <string name="button_send">Envia</string>
+    <string name="button_one">Botón 1</string>
+    <string name="button_two">Botón 2</string>
+    <string name="clicked_one">Hizo Clic En Botón Uno</string>
+    <string name="clicked_two">Hizo Clic En Botón Dos</string>
+</resources>
